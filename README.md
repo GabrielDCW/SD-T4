@@ -22,8 +22,8 @@ Desenvolver uma Unidade de Ponto Flutuante (FPU) simplificada em HDL capaz de re
 
 ---
 
-## 2️⃣ Organização do Projeto
-###🧠 Módulo fpu.sv
+## 📁 Organização do Projeto
+### 🧠 Módulo fpu.sv
 Implementa uma unidade de ponto flutuante com suporte para soma e subtração de números codificados com sinal (1 bit), expoente (7 bits) e mantissa (24 bits).
 
 ### Entradas:
