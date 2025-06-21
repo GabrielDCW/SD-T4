@@ -9,7 +9,7 @@ Desenvolver uma Unidade de Ponto Flutuante (FPU) simplificada em HDL capaz de re
 
 ## 📌 Cálculo de X e Y  
 
-- Fórmula:  
+ ### Fórmula:  
 - X = 8 (+/-) (soma dos dígitos da matrícula mod 4)  
 - Sinal + se dígito verificador for ímpar, - se for par
 
